@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"al",
+				"alignright"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"in",
+				"lis-n	list-style: none;"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"Email",
+				"Email"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"cinarsis",
+				"cinarsis_tech"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"bott",
+				"bootstrap-verticaltabs"
+			],
+			[
+				"Imag",
+				"ImageOverlay"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mensa",
+				"mensaje2"
+			],
+			[
+				"txt",
+				"txtdirec"
+			],
+			[
+				"fecha",
+				"Fecha"
+			],
+			[
+				"dial",
+				"dialogAuto"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7 ]><html class=\"ie ie6\" lang=\"en\"> <![endif]-->\n<!--[if IE 7 ]><html class=\"ie ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 8 ]><html class=\"ie ie8\" lang=\"en\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!-->\n<html lang=\"en\">\n	<!--<![endif]-->\n	<head>\n\n		<!-- Basic Page Needs\n		================================================== -->\n		<meta charset=\"utf-8\">\n		<title>.: Juventud y Vida AC :. Historia</title>\n		<meta name=\"description\" content=\"\">\n		<meta name=\"author\" content=\"\">\n\n		<!-- Mobile Specific Metas\n		================================================== -->\n		<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n\n		<!-- CSS\n		================================================== -->\n		<link rel=\"stylesheet\" href=\"stylesheets/base.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/skeleton.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/layout.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/btn.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/bootstrap.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/flexslider.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/superfish.css\">\n		<link rel=\"stylesheet\" href=\"font/css/fontello.css\">\n		<link rel=\"stylesheet\" href=\"stylesheets/color.css\">\n\n		<link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\">\n\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/css/settings.css\" media=\"screen\" />\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/jquery.fancybox.css\" media=\"screen\" />\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-thumbs.css\" media=\"screen\" />\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-buttons.css\" media=\"screen\" />\n\n		<!--[if IE 7]>\n		<link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\"><![endif]-->\n\n		<!--[if lt IE 9]>\n		<script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n		<![endif]-->\n\n		<link href='http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>\n		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>\n\n		<!-- Favicons\n		================================================== -->\n		<link rel=\"shortcut icon\" href=\"images/favicon.ico\">\n		<link rel=\"apple-touch-icon\" href=\"images/apple-touch-icon.png\">\n		<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"images/apple-touch-icon-72x72.png\">\n		<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"images/apple-touch-icon-114x114.png\">\n\n	</head>\n	<body class=\"body-dark\">\n\n	<!--Navegación-->\n   	<div id=\"topbar\">\n\n			<div class=\"container clearfix\">\n\n				<div class=\"sixteen columns\">\n\n					<nav class=\"mainNav\">\n\n						<ul class=\"nav clearfix sf-menu sf-js-enabled sf-shadow\">\n\n							<li>\n								<a class=\"active home\" href=\"index.html\"><i class=\"icon-home\"></i><span>Inicio</span></a>\n							</li>\n							<li>\n								<a href=\"#\">¿Quiénes somos?</a>\n\n								<ul>\n\n									<li>\n										<a href=\"#\">Historia</a>\n									</li>\n									<li>\n										<a href=\"mis_vis.html\">Misión y Visión</a>\n									</li>\n\n									<li>\n										<a href=\"valores.html\">Valores</a>\n									</li>\n									<li>\n										<a href=\"#\">Organigrama</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">¿Cómo actuamos?</a>\n\n								<ul>\n\n									<li>\n										<a href=\"#\">¿Qué hacemos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿Cómo lo hacemos?</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">Perfil de ingreso</a>\n\n								<ul>\n\n									<li class=\"first\">\n										<a href=\"#\">¿Cómo buscamos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿Que acciones tomamos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿A quién si podemos atender?</a>\n									</li>\n									<li class=\"last\">\n										<a href=\"#\">¿A quién no podemos atender?</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">Ayudanos</a>\n\n								<ul>\n\n									<li class=\"first\">\n										<a href=\"#\">Donaciones en efectivo</a>\n									</li>\n									<li>\n										<a href=\"#\">Donaciones en especie</a>\n									</li>\n									<li>\n										<a href=\"#\">Voluntarios</a>\n									</li>\n									<li class=\"last\">\n										<a href=\"#\">Otro tipo de donaciones</a>\n									</li>\n\n								</ul>\n\n							</li>\n\n							<li>\n								<a href=\"#\">Testimonios</a>\n							</li>\n							<li>\n								<a href=\"#\">Galería</a>\n							</li>\n							<li>\n								<a href=\"#\">Agradecimientos</a>\n							</li>\n							<li class=\"last\">\n								<a href=\"#\">Contactanos</a>\n							</li>\n\n						</ul>\n\n					</nav>\n\n					<nav class=\"secondaryNav\">\n\n						<div class=\"container mobileNav\">\n\n							<div class=\"sixteen columns mobileNavWrapper\"></div>\n\n						</div>\n\n						<ul>\n\n							<li class=\"donate\">\n								<a href=\"#\"><i class=\"icon-plus-circled\"></i>DONAR</a>\n							</li>\n							<li class=\"mail\">\n								<a href=\"#\"><i class=\"icon-mail\"></i></a>\n							</li>\n							<li class=\"twitter\">\n								<a href=\"#\"><i class=\"icon-twitter\"></i></a>\n							</li>\n							<li class=\"facebook\">\n								<a href=\"#\"><i class=\"icon-facebook\"></i></a>\n							</li>\n							\n\n						</ul>\n\n						\n\n					</nav>\n\n				</div>\n\n			</div>\n\n		</div>\n\n        <!-- Termina Navegación -->\n\n\n		<header style=\"background: url(images/pages/1.jpg) top center no-repeat;\">\n\n			<div class=\"container\">\n\n				<div class=\"sixteen columns\">\n\n					<a href=\"#\"><img class=\"logo2\" src=\"images/logop.png\" alt=\"logo\" /></a>\n\n				</div>\n\n			</div>\n\n		</header>\n\n		<div class=\"pageContent\">\n\n			<div class=\"container\">\n\n				<div class=\"nine columns offset-by-one\">\n\n					<h1 class=\"pageTitle\">Historia</h1>\n\n					<img class=\"alignright\" src=\"images/pages/assets/1.png\" alt=\"\" />\n\n					<p>\n\n						Nuestra historia nace el 17 de enero del año 2002, en la Parroquia de Santa Ana Cuautlixco en Cuautla, Morelos. Su fundador el Padre Miguel Blázquez Avis C.M. realizó las primeras reuniones con 10 menores que formaban parte de una banda de niños de la calle con adicción a los inhalantes y en condiciones deterioraras de salud, ya que se desempeñaban como traga fuegos, malabaristas y limpiaparabrisas en los diferentes cruceros de la ciudad. Apoyado por un grupo de voluntarios el Padre Miguel pudo otorgarles comida caliente, ropa, atención médica, reglas de urbanidad, hábitos de higiene y recreación. Al mismo tiempo se inicia con la canalización de los menores que así lo quisieron, en otras ONGs como Casa Alianza Ollin comunidad para la rehabilitación de las adicciones.\n					</p>\n\n					<br>\n					<p>\n						El 23 de enero del 2003 nos constituimos legalmente como Juventud y Vida A.C. continuando con la atención en calle y las reuniones en el atrio de la parroquia. Meses después un voluntario nos presto un inmueble al cual se le denomino Casa de día, en donde se continuaba atendiendo a los menores con la misma modalidad de la parroquia hasta el año 2006.\n					</p>\n\n					<br>\n					<p>\n						El 20 de enero del 2005 Juventud y Vida abre sus puertas como casa hogar, con la finalidad de que los menores que quisieran una oportunidad de vida en el hogar pudieran ingresar, para posteriormente integrarlos a la escuela y en un futuro a la sociedad de manera productiva.\n					</p>\n\n					<br>\n					<p>\n						Durante nuestra trayectoria de 9 años hemos reintegrado a sus familias a 30 niños y canalizado a 20 en otras instituciones; nuestra población actual cuenta con 8 niños entre los 7 y 18 años de edad, también atendemos en la calle a un promedio de 100 familias donde el 50% de ellos son de procedencia indígena.\n					</p>\n\n				</div>\n\n				<ul class=\"sidebar four columns offset-by-one clearfix\">\n\n					<li class=\"widget\">\n\n						<div class=\"widget_text\">\n\n							<h3>Facebook</h3>\n							<div class=\"textwidget\">\n\n								<iframe src=\"//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FJuventud-y-Vida-AC%2F156420071096170&amp;width=250&amp;height=590&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;show_border=true&amp;header=true\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:250px; height:590px;\" allowTransparency=\"true\"></iframe>\n\n							</div>\n\n						</div>\n\n					</li>\n\n				</ul>\n\n			</div>\n\n		</div>\n\n		<footer>\n\n			<div class=\"smallFooter\">\n\n				<div class=\"container clearfix\">\n\n					<div class=\"sixteen columns\">\n\n						<ul class=\"smallFooterLeft\">\n\n							<li class=\"donate\">\n								<a href=\"#\"><i class=\"icon-plus-circled\"></i>donate</a>\n							</li>\n							<li class=\"mail\">\n								<a href=\"#\"><i class=\"icon-mail\"></i></a>\n							</li>\n							<li class=\"twitter\">\n								<a href=\"#\"><i class=\"icon-twitter\"></i></a>\n							</li>\n							<li class=\"facebook\">\n								<a href=\"http://www.facebook.com/pages/Juventud-y-Vida-AC/156420071096170\"><i class=\"icon-facebook\"></i></a>\n							</li>\n\n						</ul>\n\n						<div class=\"smallFooterRight\">\n\n							<span>Derechos Reservados © Juventud y Vida. 2013</span>\n\n						</div>\n\n		</footer>\n\n		</div>\n\n		</div>\n\n		</div>\n\n		<!-- include jQuery -->\n		<script src=\"javascript/jquery-1.8.0.min.js\"></script>\n		<!-- Include the plug-in -->\n		<script src=\"javascript/script.js\"></script>\n		<script src=\"javascript/bootstrap.js\"></script>\n		<script src=\"javascript/jquery.flexslider-min.js\"></script>\n		<script type=\"text/javascript\" src=\"javascript/superfish.js\"></script>\n		<script type=\"text/javascript\" src=\"javascript/hoverIntent.js\"></script>\n\n		<!-- jQuery PORTFOLIO   -->\n		<script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.plugins.min.js\"></script>\n		<script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.megafoliopro.min.js\"></script>\n\n		<!-- Add fancyBox -->\n\n		<script type=\"text/javascript\" src=\"plugin/fancybox/jquery.fancybox.pack62ba.js?v=2.1.3\"></script>\n\n		<!-- Optionally add helpers - button, thumbnail and/or media -->\n\n		<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-buttons3447.js?v=1.0.5\"></script>\n		<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-media3447.js?v=1.0.5\"></script>\n\n		<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-thumbsf2ad.js?v=1.0.7\"></script>\n\n	</body>\n</html>",
+			"file": "historia.html",
+			"file_size": 11013,
+			"file_write_time": 130153797595574018,
+			"settings":
+			{
+				"buffer_size": 10347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7 ]><html class=\"ie ie6\" lang=\"en\"> <![endif]-->\n<!--[if IE 7 ]><html class=\"ie ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 8 ]><html class=\"ie ie8\" lang=\"en\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!-->\n<html lang=\"es\">\n    <!--<![endif]-->\n    <head>\n\n        <!-- Basic Page Needs\n        ================================================== -->\n        <meta charset=\"utf-8\">\n        <title>.: Juventud y Vida AC :. Misión y Visión</title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"author\" content=\"\">\n\n        <!-- Mobile Specific Metas\n        ================================================== -->\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n\n        <!-- CSS\n        ================================================== -->\n        <link rel=\"stylesheet\" href=\"stylesheets/bootstrap.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/flat-ui.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/base.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/skeleton.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/layout.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/btn.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/flexslider.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/superfish.css\">\n        <link rel=\"stylesheet\" href=\"font/css/fontello.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/color.css\">\n        <link rel=\"stylesheet\" href=\"stylesheets/color.css\">\n\n        <link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\">\n\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/css/settings.css\" media=\"screen\" />\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/jquery.fancybox.css\" media=\"screen\" />\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-thumbs.css\" media=\"screen\" />\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-buttons.css\" media=\"screen\" />\n\n        <!--[if IE 7]>\n        <link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\"><![endif]-->\n\n        <!--[if lt IE 9]>\n        <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n        <![endif]-->\n\n        <link href='http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>\n        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>\n\n        <!-- Favicons\n        ================================================== -->\n        <link rel=\"shortcut icon\" href=\"images/favicon.ico\">\n        <link rel=\"apple-touch-icon\" href=\"images/apple-touch-icon.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"images/apple-touch-icon-72x72.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"images/apple-touch-icon-114x114.png\">\n\n    </head>\n    <body class=\"body-dark\">\n      <!--Navegación-->\n    <div id=\"topbar\">\n\n            <div class=\"container clearfix\">\n\n                <div class=\"sixteen columns\">\n\n                    <nav class=\"mainNav\">\n\n                        <ul class=\"nav clearfix sf-menu sf-js-enabled sf-shadow\">\n\n                            <li>\n                                <a class=\"active home\" href=\"index.html\"><i class=\"icon-home\"></i><span>Inicio</span></a>\n                            </li>\n                            <li>\n                                <a href=\"#\">¿Quiénes somos?</a>\n\n                                <ul>\n\n                                    <li>\n                                        <a href=\"historia.html\">Historia</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Misión y Visión</a>\n                                    </li>\n\n                                    <li>\n                                        <a href=\"valores.html\">Valores</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Organigrama</a>\n                                    </li>\n\n                                </ul>\n\n                            </li>\n                            <li>\n                                <a href=\"#\">¿Cómo actuamos?</a>\n\n                                <ul>\n\n                                    <li>\n                                        <a href=\"#\">¿Qué hacemos?</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">¿Cómo lo hacemos?</a>\n                                    </li>\n\n                                </ul>\n\n                            </li>\n                            <li>\n                                <a href=\"#\">Perfil de ingreso</a>\n\n                                <ul>\n\n                                    <li class=\"first\">\n                                        <a href=\"#\">¿Cómo buscamos?</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">¿Que acciones tomamos?</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">¿A quién si podemos atender?</a>\n                                    </li>\n                                    <li class=\"last\">\n                                        <a href=\"#\">¿A quién no podemos atender?</a>\n                                    </li>\n\n                                </ul>\n\n                            </li>\n                            <li>\n                                <a href=\"#\">Ayudanos</a>\n\n                                <ul>\n\n                                    <li class=\"first\">\n                                        <a href=\"#\">Donaciones en efectivo</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Donaciones en especie</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Voluntarios</a>\n                                    </li>\n                                    <li class=\"last\">\n                                        <a href=\"#\">Otro tipo de donaciones</a>\n                                    </li>\n\n                                </ul>\n\n                            </li>\n\n                            <li>\n                                <a href=\"#\">Testimonios</a>\n                            </li>\n                            <li>\n                                <a href=\"#\">Galería</a>\n                            </li>\n                            <li>\n                                <a href=\"#\">Agradecimientos</a>\n                            </li>\n                            <li class=\"last\">\n                                <a href=\"#\">Contactanos</a>\n                            </li>\n\n                        </ul>\n\n                    </nav>\n\n                    <nav class=\"secondaryNav\">\n\n                        <div class=\"container mobileNav\">\n\n                            <div class=\"sixteen columns mobileNavWrapper\"></div>\n\n                        </div>\n\n                        <ul>\n\n                            <li class=\"donate\">\n                                <a href=\"#\"><i class=\"icon-plus-circled\"></i>DONAR</a>\n                            </li>\n                            <li class=\"mail\">\n                                <a href=\"#\"><i class=\"icon-mail\"></i></a>\n                            </li>\n                            <li class=\"twitter\">\n                                <a href=\"#\"><i class=\"icon-twitter\"></i></a>\n                            </li>\n                            <li class=\"facebook\">\n                                <a href=\"#\"><i class=\"icon-facebook\"></i></a>\n                            </li>\n                          \n\n                        </ul>\n\n                      \n                    </nav>\n\n                </div>\n\n            </div>\n\n        </div>\n\n        <!-- Termina Navegación -->\n\n<!-- Header -->\n    <header style=\"background: url(images/pages/3.jpg) top center no-repeat;\">\n\n        <div class=\"container\">\n\n            <div class=\"sixteen columns\">\n\n                <a href=\"index-2.html\"><img src=\"images/logop.png\" alt=\"\" /></a>\n\n            </div>\n\n        </div>\n\n    </header>\n<!-- Fin Header -->\n\n    <div class=\"pageContent\">\n\n            <div class=\"container\">\n\n                <div class=\"nine columns offset-by-one\">\n\n                    <h1 class=\"pageTitle\">Misión y Visión</h1>\n\n                    <img class=\"alignright\" src=\"images/pages/assets/1.png\" alt=\"\" />\n\n\n                <h2>Misión</h2>\n                <p>Nacimos para enseñar y educar a los niños, niñas, adolescentes y jóvenes en situación de calle en los principios del amor, el respeto mutuo, los valores familiares y sociales, con base a una familia, en la que se está y vive como niño se forma para hacer de ellos ciudadanos honestos e integrarlos a la sociedad, desarrollando un programa integral que les permita tener otra alternativa de vida.<p>\n\n                <h2>Visión</h2>\n                <p>La asociación civil, “Juventud y Vida”, busca constituirse en un modelo de  atención integral a la infancia y a la adolescencia, en situación de calle. Para ello, con su accionar cotidiano deberá impactar favorablemente a la comunidad, a la familia y al estado de tal forma que entre todos, como actores sociales, nos constituyamos en garantes de los derechos de los niños y niñas.</p>\n\n                </div>\n\n                <ul class=\"sidebar four columns offset-by-one clearfix\">\n\n                    <li class=\"widget\">\n\n                        <div class=\"widget_text\">\n\n                            <h3>Facebook</h3>\n                            <div class=\"textwidget\">\n\n                                <iframe src=\"//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FJuventud-y-Vida-AC%2F156420071096170&amp;width=250&amp;height=590&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;show_border=true&amp;header=true\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:250px; height:590px;\" allowTransparency=\"true\"></iframe>\n\n                            </div>\n\n                        </div>\n\n                    </li>\n\n                </ul>\n\n            </div>\n\n    </div>\n   <footer>\n            <div class=\"smallFooter\">\n\n                <div class=\"container clearfix\">\n\n                    <div class=\"sixteen columns\">\n\n                        <ul class=\"smallFooterLeft\">\n\n                            <li class=\"donate\">\n                                <a href=\"#\"><i class=\"icon-plus-circled\"></i>DONAR</a>\n                            </li>\n                            <li class=\"mail\">\n                                <a href=\"#\"><i class=\"icon-mail\"></i></a>\n                            </li>\n                            <li class=\"twitter\">\n                                <a href=\"#\"><i class=\"icon-twitter\"></i></a>\n                            </li>\n                            <li class=\"facebook\">\n                                <a href=\"http://www.facebook.com/pages/Juventud-y-Vida-AC/156420071096170\"><i class=\"icon-facebook\"></i></a>\n                            </li>\n\n                        </ul>\n\n                        <div class=\"smallFooterRight\">\n\n                            <span>Derechos Reservados © Juventud y Vida. 2013</span>\n\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        </footer>\n\n<!-- include jQuery -->\n<script src=\"javascript/jquery-1.8.0.min.js\"></script>\n<!-- Include the plug-in -->\n<script src=\"javascript/script.js\"></script>\n<script src=\"javascript/bootstrap.js\"></script>\n<script src=\"javascript/jquery.flexslider-min.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/superfish.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/hoverIntent.js\"></script>\n\n\n<!-- jQuery PORTFOLIO   -->\n	<script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.plugins.min.js\"></script>\n    <script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.megafoliopro.min.js\"></script>\n\n <!-- Add fancyBox -->\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/jquery.fancybox.pack62ba.js?v=2.1.3\"></script>\n\n	<!-- Optionally add helpers - button, thumbnail and/or media -->\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-buttons3447.js?v=1.0.5\"></script>\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-media3447.js?v=1.0.5\"></script>\n\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-thumbsf2ad.js?v=1.0.7\"></script>\n\n\n\n</body>\n</html>",
+			"file": "mis_vis.html",
+			"file_size": 13945,
+			"file_write_time": 130154626720157725,
+			"settings":
+			{
+				"buffer_size": 13006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "valores.html",
+			"settings":
+			{
+				"buffer_size": 10930,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/layout.css",
+			"settings":
+			{
+				"buffer_size": 28430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7 ]><html class=\"ie ie6\" lang=\"en\"> <![endif]-->\n<!--[if IE 7 ]><html class=\"ie ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 8 ]><html class=\"ie ie8\" lang=\"en\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!--><html lang=\"es\"> <!--<![endif]-->\n<head>\n\n	<!-- Basic Page Needs\n  ================================================== -->\n    <meta name=\"keywords\" content=\"casa hogar, caridad. juvendtud y vida, asociacion, niños de la calle, donaciones\">\n    <meta name=\"description\" content=\"Nosotros somos una organización que se encarga de que los niños en situación de calle se reintegren a la sociedad por medio de un modelo de atención integral, brindándoles las herramientas necesarias para enfrentar un mejor futuro. \">\n    <meta name=\"author\" content=\"Cinarsis Technologies\">\n    <meta name=\"copyright\" content=\"Juventud y Vida A.C.\">\n    <meta name=\"robots\" content=\"index, follow\">\n	<meta charset=\"utf-8\">\n    <meta http-equiv=\"cache-control\" content=\"cache\">\n    <meta http-equiv=\"content-language\" content=\"es\">\n    <meta http-equiv=\"revisit-after\" content=\"7 days\">\n    <title> .: Juventud y Vida A.C. :. </title>\n\n\n	<!-- Mobile Specific Metas\n  ================================================== -->\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n\n	<!-- CSS\n  ================================================== -->\n    <link rel=\"stylesheet\" href=\"stylesheets/base.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/skeleton.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/layout.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/btn.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/bootstrap.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/flexslider.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/superfish.css\">\n    <link rel=\"stylesheet\" href=\"font/css/fontello.css\">\n    <link rel=\"stylesheet\" href=\"stylesheets/color.css\">\n\n\n    <link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\">\n\n\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/css/settings.css\" media=\"screen\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/jquery.fancybox.css\" media=\"screen\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-thumbs.css\" media=\"screen\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"plugin/fancybox/helpers/jquery.fancybox-buttons.css\" media=\"screen\" />\n\n\n\n\n           <!--[if IE 7]>\n    <link rel=\"stylesheet\" href=\"font/css/fontello-ie7.css\"><![endif]-->\n\n	<!--[if lt IE 9]>\n		<script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n	<![endif]-->\n\n        <link href='http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>\n        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>\n\n	<!-- Favicons\n	================================================== -->\n	<link rel=\"shortcut icon\" href=\"images/favicon.ico\">\n	<link rel=\"apple-touch-icon\" href=\"images/apple-touch-icon.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"images/apple-touch-icon-72x72.png\">\n	<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"images/apple-touch-icon-114x114.png\">\n\n</head>\n<body class=\"body-dark\">\n<!--Navegación-->\n   	<div id=\"topbar\">\n\n			<div class=\"container clearfix\">\n\n				<div class=\"sixteen columns\">\n\n					<nav class=\"mainNav\">\n\n						<ul class=\"nav clearfix sf-menu sf-js-enabled sf-shadow\">\n\n							<li>\n								<a class=\"active home\" href=\"index.html\"><i class=\"icon-home\"></i><span>Inicio</span></a>\n							</li>\n							<li>\n								<a href=\"#\">¿Quiénes somos?</a>\n\n								<ul>\n\n									<li>\n										<a href=\"historia.html\">Historia</a>\n									</li>\n									<li>\n										<a href=\"mis_vis.html\">Misión y Visión</a>\n									</li>\n\n									<li>\n										<a href=\"#\">Valores</a>\n									</li>\n									<li>\n										<a href=\"#\">Organigrama</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">¿Cómo actuamos?</a>\n\n								<ul>\n\n									<li>\n										<a href=\"#\">¿Qué hacemos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿Cómo lo hacemos?</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">Perfil de ingreso</a>\n\n								<ul>\n\n									<li class=\"first\">\n										<a href=\"#\">¿Cómo buscamos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿Que acciones tomamos?</a>\n									</li>\n									<li>\n										<a href=\"#\">¿A quién si podemos atender?</a>\n									</li>\n									<li class=\"last\">\n										<a href=\"#\">¿A quién no podemos atender?</a>\n									</li>\n\n								</ul>\n\n							</li>\n							<li>\n								<a href=\"#\">Ayudanos</a>\n\n								<ul>\n\n									<li class=\"first\">\n										<a href=\"#\">Donaciones en efectivo</a>\n									</li>\n									<li>\n										<a href=\"#\">Donaciones en especie</a>\n									</li>\n									<li>\n										<a href=\"#\">Voluntarios</a>\n									</li>\n									<li class=\"last\">\n										<a href=\"#\">Otro tipo de donaciones</a>\n									</li>\n\n								</ul>\n\n							</li>\n\n							<li>\n								<a href=\"#\">Testimonios</a>\n							</li>\n							<li>\n								<a href=\"#\">Galería</a>\n							</li>\n							<li>\n								<a href=\"#\">Agradecimientos</a>\n							</li>\n							<li class=\"last\">\n								<a href=\"#\">Contactanos</a>\n							</li>\n\n						</ul>\n\n					</nav>\n\n					<nav class=\"secondaryNav\">\n\n						<div class=\"container mobileNav\">\n\n							<div class=\"sixteen columns mobileNavWrapper\"></div>\n\n						</div>\n\n						<ul>\n\n							<li class=\"donate\">\n								<a href=\"#\"><i class=\"icon-plus-circled\"></i>DONAR</a>\n							</li>\n							<li class=\"mail\">\n								<a href=\"#\"><i class=\"icon-mail\"></i></a>\n							</li>\n							<li class=\"twitter\">\n								<a href=\"#\"><i class=\"icon-twitter\"></i></a>\n							</li>\n							<li class=\"facebook\">\n								<a href=\"#\"><i class=\"icon-facebook\"></i></a>\n							</li>\n							<li class=\"search\">\n								<a href=\"#\"><i class=\"icon-search\"></i><i class=\"icon-cancel\"></i></a>\n							</li>\n\n						</ul>\n\n						<div class=\"topBarSearch clearfix\">\n\n							<form method=\"get\" id=\"searchform\">\n								<!-- Search Feature -->\n								<input type=\"text\" value=\"\" name=\"s\" id=\"s\" placeholder=\"Enter Keywords ...\">\n								<input type=\"submit\" class=\"button-small-theme\" id=\"searchsubmit\" value=\"Go\">\n\n							</form>\n\n						</div>\n\n					</nav>\n\n				</div>\n\n			</div>\n\n		</div>\n\n        <!-- Termina Navegación -->\n\n        <!-- Inicia contenido -->\n    <header style=\"background: url(images/pages/1.jpg) top center no-repeat;\">\n\n        <div class=\"container\">\n\n            <div class=\"sixteen columns\">\n\n                <a href=\"index-2.html\"><img src=\"images/logop.png\" alt=\"\" /></a>\n\n            </div>\n\n        </div>\n\n    </header>\n\n    <div class=\"pageContent\">\n\n        <div class=\"container\">\n\n            <div class=\"nine columns offset-by-one\">\n\n                <h1 class=\"pageTitle\"></h1>\n\n                <p><img class=\"alignright\" src=\"images/pages/assets/1.png\" alt=\"\" /></p>\n\n                <p></p>\n\n            </div>\n\n            <ul class=\"sidebar four columns offset-by-one clearfix\">\n\n                <li class=\"widget\">\n\n                    <div class=\"widget_text\">\n\n                        <h3></h3>\n                        <div class=\"textwidget\">\n\n                            <p></p>\n                        </div>\n\n		</div>\n\n                </li>\n\n            </ul>\n\n        </div>\n\n    </div>\n\n   	<!-- Termina Contenido-->\n\n		<!--Inicia Footer-->\n\n		<footer>\n			<div class=\"smallFooter\">\n\n				<div class=\"container clearfix\">\n\n					<div class=\"sixteen columns\">\n\n						<ul class=\"smallFooterLeft\">\n\n							<li class=\"donate\">\n								<a href=\"#\"><i class=\"icon-plus-circled\"></i>DONAR</a>\n							</li>\n							<li class=\"mail\">\n								<a href=\"#\"><i class=\"icon-mail\"></i></a>\n							</li>\n							<li class=\"twitter\">\n								<a href=\"#\"><i class=\"icon-twitter\"></i></a>\n							</li>\n							<li class=\"facebook\">\n								<a href=\"http://www.facebook.com/pages/Juventud-y-Vida-AC/156420071096170\"><i class=\"icon-facebook\"></i></a>\n							</li>\n\n						</ul>\n\n						<div class=\"smallFooterRight\">\n\n							<span>Derechos Reservados © Juventud y Vida. 2013</span>\n\n						</div>\n\n					</div>\n\n				</div>\n\n			</div>\n		</footer>\n       <!-- Termina Footer-->\n<!-- include jQuery -->\n<script src=\"javascript/jquery-1.8.0.min.js\"></script>\n<!-- Include the plug-in -->\n<script src=\"javascript/script.js\"></script>\n<script src=\"javascript/bootstrap.js\"></script>\n<script src=\"javascript/jquery.flexslider-min.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/superfish.js\"></script>\n<script type=\"text/javascript\" src=\"javascript/hoverIntent.js\"></script>\n\n\n<!-- jQuery PORTFOLIO   -->\n	<script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.plugins.min.js\"></script>\n    <script type=\"text/javascript\" src=\"plugin/js/jquery.themepunch.megafoliopro.min.js\"></script>\n\n <!-- Add fancyBox -->\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/jquery.fancybox.pack62ba.js?v=2.1.3\"></script>\n\n	<!-- Optionally add helpers - button, thumbnail and/or media -->\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-buttons3447.js?v=1.0.5\"></script>\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-media3447.js?v=1.0.5\"></script>\n\n\n	<script type=\"text/javascript\" src=\"plugin/fancybox/helpers/jquery.fancybox-thumbsf2ad.js?v=1.0.7\"></script>\n\n\n\n</body>\n</html>",
+			"file": "Templates/template_dwt.html",
+			"file_size": 9938,
+			"file_write_time": 130156246121270740,
+			"settings":
+			{
+				"buffer_size": 9540,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"htmltag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"tag",
+				"Tag: Close Tag"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: style",
+				"Snippet: link - stylesheet"
+			],
+			[
+				"Snippet: html",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: DOCTYPE HTML"
+			]
+		],
+		"width": 640.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/stylesheets/layout.css",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/mis_vis.html",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/javascript/jquery.flexslider-min.js",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/javascript/script.js",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/historia.html",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/stylesheets/base.css",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/stylesheets/skeleton.css",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/stylesheets/bootstrap.css",
+		"/C/Users/Axel/Documents/GitHub/juventud-y-vida-ac/about.html",
+		"/C/Ampps/www/jueventudyvida/historia.html",
+		"/C/Ampps/www/ui version mia/views/default_layout.html",
+		"/C/Ampps/www/ui version mia/index.php",
+		"/C/Ampps/www/ui version mia/index",
+		"/C/Ampps/www/jquery/style.css",
+		"/C/Ampps/www/jquery/index2.html",
+		"/C/Ampps/www/fotonet2/index.html",
+		"/C/Ampps/www/jquery/app.css",
+		"/C/Ampps/www/jquery/app.js",
+		"/C/Ampps/www/jquery/index.html",
+		"/C/Ampps/www/spp/Sistema/spp/conection/conectar.php",
+		"/C/Ampps/www/dif/dif/index.php",
+		"/C/Ampps/www/dif/dif/Default.php",
+		"/C/Ampps/www/servidor/funciones.php",
+		"/C/Ampps/www/servidor/index.php",
+		"/C/Ampps/www/fotonet2/css/bootstrap.css",
+		"/C/Ampps/www/fotonet2/assets/css/style.css",
+		"/C/Ampps/www/servidor/administrador/altas.php",
+		"/C/Ampps/www/servidor/css/form.css",
+		"/C/Ampps/www/servidor/registro_usuarios/index2.php",
+		"/C/Ampps/www/servidor/administrador/buscardoc1.php",
+		"/C/Ampps/www/servidor/administrador/borrar_persona.php",
+		"/C/Ampps/www/servidor/administrador/borrar_archivo.php",
+		"/C/Ampps/www/servidor/js/checkbox.js",
+		"/C/Ampps/www/servidor/js/index.js",
+		"/C/Ampps/www/servidor/administrador/menu_administrador.php",
+		"/C/Ampps/www/servidor/subir/index.php",
+		"/C/Ampps/www/servidor/registro_usuarios/subir.php",
+		"/C/Ampps/www/servidor/administrador/consulta.php",
+		"/D/htmlcompressor-1.5.3/htmlcompressor-1.5.3/bin/htmlcompressor-1.5.3.jar",
+		"/C/Ampps/www/windows8-animations/index.html",
+		"/C/Ampps/www/windows8-animations/css/demo-styles.css",
+		"/D/the-church/the-church/css/all.css",
+		"/D/the-church/the-church/index.html",
+		"/C/Ampps/www/windows8-animations-master (3)/index.html",
+		"/D/argo_html/argo/confirmacion..tml.html",
+		"/D/argo_html/argo/assets/css/style.css",
+		"/C/Ampps/www/POS-master(2)/POS-master/README.md",
+		"/C/Ampps/www/Proyecto TecSur/Proyecto TEcsur/index.html",
+		"/C/Ampps/www/Proyecto TecSur/Proyecto TEcsur/css/bootstrap.min.css",
+		"/C/Ampps/www/Proyecto TecSur/Proyecto TEcsur/css/bootstrap-responsive.css",
+		"/C/Ampps/www/Proyecto TecSur/Proyecto TEcsur/css/mode_bootstrap2.css",
+		"/D/jdownloader/TutsPlus.Create.A.Dynamic.Content.Editing.System-RWD/rwd-tcadces.rar",
+		"/C/Ampps/www/Proyecto TecSur/css/allinone_carousel.css",
+		"/C/Ampps/www/Proyecto TecSur/css/mode_bootstrap.css",
+		"/C/Ampps/www/Proyecto TecSur/indexn2.html",
+		"/D/impress.js-master/impress.js-master/index.html",
+		"/C/Ampps/www/Proyecto TecSur/ALL IN ONE BANNER - JQUERY CAROUSEL - RESPONSIVE - Powerful Skin_files/sweet.html",
+		"/D/icarousel/icarousel/icarousel/index.html",
+		"/D/software/thundercats.rar",
+		"/C/Ampps/www/Proyecto TecSur/edu_continua.html",
+		"/C/Ampps/www/Proyecto TecSur/reposteria.html",
+		"/C/Ampps/www/Proyecto TecSur/especialidad.html",
+		"/C/Ampps/www/Proyecto TecSur/licenciatura.html",
+		"/C/Ampps/www/Proyecto TecSur/indexn.html",
+		"/C/Ampps/www/Proyecto TecSur/acercaTecsur.html",
+		"/C/Ampps/www/Proyecto TecSur/lic3.html",
+		"/C/Ampps/www/Proyecto TecSur/lic2.html",
+		"/C/Ampps/www/Proyecto TecSur/lic4.html",
+		"/C/Ampps/www/Proyecto TecSur/css/bootstrap-verticaltabs.css",
+		"/C/Ampps/www/Proyecto TecSur/css/stylesheet.css",
+		"/C/Ampps/www/Proyecto TecSur/validate.php",
+		"/C/Ampps/www/Proyecto TecSur/contacto.html",
+		"/C/Ampps/www/Proyecto TecSur/css/bootstrap.min.css",
+		"/C/Ampps/www/Proyecto TecSur/layerslider/css/layerslider.css",
+		"/C/Ampps/www/Proyecto TecSur/scripts/myscript.js",
+		"/C/Ampps/www/Proyecto TecSur/index2.html",
+		"/C/Ampps/www/Proyecto TecSur/index.php",
+		"/C/Ampps/www/Proyecto TecSur/scripts/instantedit.js",
+		"/C/Ampps/www/Proyecto TecSur/update.php",
+		"/C/Ampps/www/Proyecto TecSur/index3.php",
+		"/C/Ampps/www/Proyecto TecSur/update.phps",
+		"/C/Ampps/www/Proyecto TecSur/index.phps",
+		"/C/Ampps/www/jquery_jeditable-master/default.html",
+		"/C/Ampps/www/Proyecto TecSur/index2.php",
+		"/C/Ampps/www/Proyecto TecSur/fpss/templates/Movies/css/template_css.php",
+		"/C/Ampps/www/Proyecto TecSur/index.html",
+		"/C/Ampps/www/Proyecto TecSur/diplomadosAmateur.html",
+		"/C/Ampps/www/Proyecto TecSur/css/bootstrap.min3.css",
+		"/C/Ampps/www/FrontpageSlideshow/example.php",
+		"/C/Ampps/www/Proyecto TecSur/.htaccess",
+		"/C/Ampps/www/Proyecto TecSur/gallery/.htaccess",
+		"/C/Ampps/www/Proyecto TecSur/style.css",
+		"/C/Ampps/www/Proyecto TecSur/instalaciones.html",
+		"/C/Ampps/www/Proyecto TecSur/eventosEspeciales.html",
+		"/C/Ampps/www/Proyecto TecSur/especialidadesyCursos.html",
+		"/C/Ampps/www/Proyecto TecSur/css/modern.css",
+		"/C/Ampps/www/Proyecto TecSur/css/index2.css",
+		"/C/Ampps/www/Proyecto TecSur/css/modern-responsive.css",
+		"/C/Ampps/www/Proyecto TecSur/web_contacto.php",
+		"/D/Nueva carpeta/Prop1/index2.html",
+		"/C/Users/Axel/AppData/Local/Temp/Rar$DRa0.728/Formulario/class.smtp.php",
+		"/C/Ampps/www/Proyecto TecSur/class.smtp.php",
+		"/C/Ampps/www/Proyecto TecSur/smtpmail.php",
+		"/C/Ampps/www/Proyecto TecSur/contacto_gracias.php",
+		"/C/Ampps/www/Proyecto TecSur/contacto_error.php",
+		"/C/Ampps/www/Proyecto TecSur/css/layerslider.css",
+		"/C/Ampps/www/Proyecto TecSur/forma.php",
+		"/D/Nueva carpeta/Nueva carpeta (2) - copia/index.html",
+		"/C/Ampps/www/Proyecto TecSur/escueladeVinos.html",
+		"/C/Ampps/www/AplicacionCRUD/js/jquery-1.6.4.js",
+		"/C/Ampps/www/AplicacionCRUD/codebase/dhtmlxcalendar.js",
+		"/C/Ampps/www/AplicacionCRUD/js/script.js",
+		"/C/Ampps/www/AplicacionCRUD/codebase/skins/dhtmlxcalendar_dhx_web.css",
+		"/C/Ampps/www/AplicacionCRUD/js/happy.js",
+		"/C/Ampps/www/AplicacionCRUD/index.php",
+		"/C/Ampps/www/AplicacionCRUD/js/happy.methods.js",
+		"/C/Ampps/www/AplicacionCRUD/js/jquery.js",
+		"/C/Ampps/www/AplicacionCRUD/modal.html",
+		"/C/Ampps/www/AplicacionCRUD/hrllo.html",
+		"/D/Nueva carpeta/Otro template/index.html",
+		"/C/Ampps/www/mis diseños/index.html",
+		"/C/Ampps/www/AplicacionCRUD2/template.html",
+		"/C/Ampps/www/AplicacionCRUD2/popup.html",
+		"/C/Ampps/www/AplicacionCRUD2/js/jquery-1.9.0.js",
+		"/C/Users/Axel/AppData/Local/Temp/Rar$DRa0.844/Implementaci-n_de_Ventana_Modal_con_jQuery_y_jQuery_UI-master/index.html",
+		"/C/Ampps/www/AplicacionCRUD2/js/jquery-ui-1.8.16.custom.min.js",
+		"/C/Ampps/www/AplicacionCRUD2/css/jquery-ui.css",
+		"/C/Ampps/www/AplicacionCRUD2/js/jquery-1.6.2.min.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" tabindex=\"1\"",
+			"/p",
+			"<p>",
+			"class=\"editable\"",
+			"Valores",
+			"topbar",
+			"top",
+			"align",
+			"img",
+			"causes-single-full.html",
+			"TAKE ACTION NOW",
+			"logo",
+			"slider",
+			"dark",
+			"body-dark",
+			"body",
+			"topB",
+			"main",
+			"                             <li><a href=\"causes-single-full.html\">Valores</a></li>\n",
+			"stylesheets",
+			"li",
+			"\");\n",
+			"li",
+			"class",
+			"nav",
+			"images/html5.png",
+			"images/",
+			"jpg",
+			"></",
+			"service_tab",
+			"service-tab",
+			"tabs_triggers",
+			"tabs_t",
+			"tabs",
+			"services",
+			"tabs",
+			"triggers",
+			"tabs_triggers",
+			"tabs_tr",
+			"tabs",
+			"service-",
+			"logo",
+			"CorbertRegular",
+			"Lato",
+			"body",
+			"bodu",
+			"font-fam",
+			"body",
+			"font/",
+			"nav",
+			"brand",
+			"font",
+			"Lato-Reg-webfont",
+			"logo",
+			"font-",
+			"h1",
+			"NET",
+			"fui-mail",
+			"cabecera",
+			"ad",
+			"once",
+			"  <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/form.css\">\n",
+			"label",
+			"deportiva",
+			"Producto",
+			"50",
+			"0.7",
+			"5em",
+			"delete",
+			"title",
+			"holder",
+			"logo",
+			"WP_DEBUG",
+			"wp",
+			"WP",
+			"define(‘WP",
+			"require_once",
+			"page-",
+			"cp",
+			"wea",
+			"whea",
+			"news",
+			"photos",
+			"photosd",
+			"organiz",
+			"Organize my bookmarks",
+			"Finish my todo app",
+			"Buy groceries",
+			"Design my blog",
+			"Finish my 3D demo",
+			"logo",
+			"../",
+			"images",
+			"logo",
+			"brand",
+			"font-fami",
+			"font-",
+			"brand",
+			"slider",
+			"ass",
+			"slider",
+			"ass",
+			"asse",
+			"slider",
+			"sequence",
+			"portfolio",
+			"slider",
+			"#footer",
+			"data-",
+			"data",
+			"progres",
+			"navbar",
+			"btn",
+			"slider",
+			"navbar",
+			"nav-bar",
+			"navbar",
+			"nav",
+			"<div class=\"item\">\n									<img src=\"assets/img/image_2.jpg\" alt=\"\">\n								</div>",
+			"testimonial",
+			"section",
+			"blog_container",
+			"container",
+			"blog-",
+			"idden-",
+			"blog-contai",
+			"idden-",
+			"blog-cont"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"#",
+			"Ayudar",
+			"corbert_regular_regular-webfont",
+			"assets/",
+			"../img",
+			"1BA1E2",
+			"Cinarsis Technologies",
+			"#bar",
+			"src",
+			"data-src=\"http://lorempixel.com/160/120/food/Dummy-Text/\"",
+			"row",
+			"row-fluid",
+			"",
+			"#cccccc",
+			"",
+			"de<br>",
+			"style=\"margin-right:10px;\"",
+			"",
+			"\"30px\"",
+			"font-family: \"Segoe UI\", Frutiger, \"Frutiger Linotype\", \"Dejavu Sans\", \"Helvetica Neue\", Arial, sans-serif;",
+			"",
+			"<li>",
+			"",
+			"&eacute;",
+			"&aacute;",
+			"&iacute;",
+			"&oacute;",
+			"&iacute;",
+			"&oacute;",
+			"",
+			"Leer más...",
+			"",
+			"\"60\"",
+			"40",
+			"140",
+			"<th>",
+			"15px",
+			"nav",
+			"txtcliente",
+			"errorFecha",
+			"txtcliente",
+			"txtfeccon",
+			"Domingo\",\"Lunes\",2Martes, \"Miercoles\", \"Jueves\",\"Viernes\",\"Sabado\"",
+			"",
+			"label",
+			"js/",
+			"js",
+			"css/",
+			"",
+			"label",
+			".frmRegistrar",
+			"awesomeForm",
+			"\"#\"",
+			"<li>",
+			"",
+			"h3",
+			"200",
+			"e5592e",
+			"js/",
+			"",
+			"Tecnológico del Cuautla"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3704,
+								3704
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2027.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "historia.html",
+					"settings":
+					{
+						"buffer_size": 10347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3081,
+								3081
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mis_vis.html",
+					"settings":
+					{
+						"buffer_size": 13006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3862,
+								3862
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 371.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "valores.html",
+					"settings":
+					{
+						"buffer_size": 10930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9939,
+								9939
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6377.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 28430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27801,
+								27801
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Templates/template_dwt.html",
+					"settings":
+					{
+						"buffer_size": 9540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3332,
+								6506
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"js/Kozuka_Gothic_Pro_Op"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
